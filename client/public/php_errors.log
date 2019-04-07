@@ -1,0 +1,286 @@
+[29-Mar-2019 07:40:16 UTC] PHP Parse error:  syntax error, unexpected '$args' (T_VARIABLE) in C:\Users\admin\whs-pdo\src\routes.php on line 31
+[29-Mar-2019 07:40:28 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\Users\admin\whs-pdo\src\routes.php on line 32
+[29-Mar-2019 07:41:17 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in C:\Users\admin\whs-pdo\src\routes.php on line 24
+[29-Mar-2019 07:57:33 UTC] PHP Notice:  Undefined variable: db in C:\Users\admin\whs-pdo\src\routes.php on line 25
+[29-Mar-2019 07:57:52 UTC] PHP Notice:  Undefined variable: query in C:\Users\admin\whs-pdo\src\routes.php on line 26
+[29-Mar-2019 07:59:48 UTC] PHP Notice:  Undefined variable: query in C:\Users\admin\whs-pdo\src\routes.php on line 26
+[29-Mar-2019 08:00:12 UTC] PHP Notice:  Undefined variable: query in C:\Users\admin\whs-pdo\src\routes.php on line 26
+[29-Mar-2019 08:00:13 UTC] PHP Notice:  Undefined variable: query in C:\Users\admin\whs-pdo\src\routes.php on line 26
+[29-Mar-2019 08:00:54 UTC] PHP Notice:  Undefined variable: result in C:\Users\admin\whs-pdo\src\routes.php on line 30
+[29-Mar-2019 08:13:52 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in C:\Users\admin\whs-pdo\src\routes.php on line 34
+[29-Mar-2019 08:14:00 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\admin\whs-pdo\src\routes.php on line 35
+[29-Mar-2019 08:14:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\admin\whs-pdo\src\routes.php on line 35
+[29-Mar-2019 08:23:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:06 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:19 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:20 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:20 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:21 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:21 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:21 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:21 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:21 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:22 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:22 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:22 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:22 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:22 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:22 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:23 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:23 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:23 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:23 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:24 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:24 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:24 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:24 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:24 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:24 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:30 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:30 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:30 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:31 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:31 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:31 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:32 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:32 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:51 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:51 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:52 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:52 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:53 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:53 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:53 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:53 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:53 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:53 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:27:54 UTC] PHP Parse error:  syntax error, unexpected '__construct' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\dependencies.php on line 27
+[29-Mar-2019 08:29:50 UTC] PHP Warning:  Use of undefined constant lol - assumed 'lol' (this will throw an Error in a future version of PHP) in C:\Users\admin\whs-pdo\src\routes.php on line 24
+[29-Mar-2019 08:35:44 UTC] PHP Parse error:  syntax error, unexpected '*' in C:\Users\admin\whs-pdo\src\routes.php on line 27
+[29-Mar-2019 08:35:52 UTC] PHP Notice:  Undefined variable: result in C:\Users\admin\whs-pdo\src\routes.php on line 25
+[29-Mar-2019 08:35:58 UTC] PHP Notice:  Undefined variable: result in C:\Users\admin\whs-pdo\src\routes.php on line 25
+[29-Mar-2019 08:35:59 UTC] PHP Notice:  Undefined variable: result in C:\Users\admin\whs-pdo\src\routes.php on line 25
+[29-Mar-2019 08:36:05 UTC] PHP Notice:  Undefined variable: result in C:\Users\admin\whs-pdo\src\routes.php on line 25
+[29-Mar-2019 09:02:59 UTC] PHP Warning:  Illegal string offset 'host' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:02:59 UTC] PHP Warning:  Illegal string offset 'dbname' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:02:59 UTC] PHP Warning:  Illegal string offset 'user' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:02:59 UTC] PHP Warning:  Illegal string offset 'password' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:03:30 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:03:31 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:03:59 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:03:59 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:05:35 UTC] PHP Warning:  Illegal string offset 'host' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:05:35 UTC] PHP Warning:  Illegal string offset 'dbname' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:05:35 UTC] PHP Warning:  Illegal string offset 'user' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:05:35 UTC] PHP Warning:  Illegal string offset 'password' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:06:13 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:33 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:33 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:33 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:33 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:33 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:34 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:34 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:34 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:34 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:35 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:35 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:35 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:08:35 UTC] PHP Parse error:  syntax error, unexpected 'search' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\Users\admin\whs-pdo\src\routes.php on line 21
+[29-Mar-2019 09:10:16 UTC] PHP Warning:  Illegal string offset 'host' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:10:16 UTC] PHP Warning:  Illegal string offset 'dbname' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:10:16 UTC] PHP Warning:  Illegal string offset 'user' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[29-Mar-2019 09:10:16 UTC] PHP Warning:  Illegal string offset 'password' in C:\Users\admin\whs-pdo\src\includes\Assertion.php on line 13
+[02-Apr-2019 07:41:07 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 20
+[02-Apr-2019 07:41:49 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:41:50 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:41:50 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:41:50 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:41:50 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:41:51 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:53 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:53 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:53 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:55 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:55 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:42:55 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:43:13 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:43:14 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:43:14 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:43:49 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:43:49 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:43:50 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:44:26 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:44:29 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:44:29 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 21
+[02-Apr-2019 07:49:35 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:45 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:45 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:45 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:46 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:46 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:46 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:46 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:46 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:47 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:47 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:49:47 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:05 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:06 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:06 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:06 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:09 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:09 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:09 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:09 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:09 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:09 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:10 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:50:10 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:51:25 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:25 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:25 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:29 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:31 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:31 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:31 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:31 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:31 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:31 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:32 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:51:32 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:53:21 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:53:21 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:53:21 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 07:53:34 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:53:35 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:53:35 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:54:20 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:54:21 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:54:21 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:54:21 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:54:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:54:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:54:54 UTC] PHP Notice:  Undefined variable: oldResponse in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 07:59:37 UTC] PHP Notice:  Undefined variable: asssertions in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 08:03:02 UTC] PHP Notice:  Undefined variable: newResponse in C:\Users\admin\whs-service\src\routes.php on line 23
+[02-Apr-2019 08:20:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Users\admin\whs-service\src\routes.php on line 22
+[02-Apr-2019 08:20:37 UTC] PHP Notice:  Undefined variable: search in C:\Users\admin\whs-service\src\routes.php on line 19
+[02-Apr-2019 08:27:10 UTC] PHP Notice:  Undefined variable: search in C:\Users\admin\whs-service\src\routes.php on line 19
+[02-Apr-2019 08:35:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\Users\admin\whs-service\public\index.php on line 17
+[02-Apr-2019 08:43:35 UTC] PHP Notice:  Undefined variable: result in C:\Users\admin\whs-service\src\routes.php on line 50
+[02-Apr-2019 08:45:33 UTC] PHP Notice:  Undefined variable: result in C:\Users\admin\whs-service\src\routes.php on line 50
+[02-Apr-2019 08:45:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\admin\whs-service\templates\assertions_bs.phtml on line 24
+[02-Apr-2019 08:45:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\admin\whs-service\templates\assertions_bs.phtml on line 26
+[05-Apr-2019 10:49:50 UTC] PHP Notice:  Undefined index: database in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Connectors\ConnectionFactory.php on line 76
+[05-Apr-2019 10:49:51 UTC] PHP Notice:  Undefined variable: database in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Connectors\MySqlConnector.php on line 134
+[05-Apr-2019 10:51:42 UTC] PHP Notice:  Undefined index: database in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Connectors\ConnectionFactory.php on line 76
+[05-Apr-2019 10:51:42 UTC] PHP Notice:  Undefined variable: database in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Connectors\MySqlConnector.php on line 134
+[05-Apr-2019 10:57:18 UTC] PHP Notice:  Undefined index: database in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Connectors\ConnectionFactory.php on line 76
+[05-Apr-2019 10:57:18 UTC] PHP Notice:  Undefined variable: database in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Connectors\MySqlConnector.php on line 134
+[05-Apr-2019 11:47:29 UTC] PHP Parse error:  syntax error, unexpected ')' in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 32
+[05-Apr-2019 11:50:09 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:50:12 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:50:18 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:52:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php:30
+Stack trace:
+#0 C:\Users\ADM\Desktop\Appli info RT\whs-orm\public\index.php(27): require()
+#1 {main}
+  thrown in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 30
+[05-Apr-2019 11:53:06 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:53:24 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:53:58 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:53:59 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:53:59 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:54:00 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:54:00 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:54:20 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:56:18 UTC] PHP Notice:  Undefined variable: result in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 34
+[05-Apr-2019 11:56:20 UTC] PHP Notice:  Undefined variable: result in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 34
+[05-Apr-2019 11:56:25 UTC] PHP Notice:  Undefined variable: result in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 34
+[05-Apr-2019 11:56:26 UTC] PHP Notice:  Undefined variable: result in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 34
+[05-Apr-2019 11:56:26 UTC] PHP Notice:  Undefined variable: result in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 34
+[05-Apr-2019 11:56:32 UTC] PHP Notice:  Undefined variable: result in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 34
+[05-Apr-2019 11:56:44 UTC] PHP Notice:  Undefined variable: result in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 34
+[05-Apr-2019 11:58:37 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 11:58:43 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:05:21 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:05:53 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:06:36 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:07:17 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:07:38 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:09:48 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:10:04 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:10:04 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:10:05 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:23 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:26 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:28 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:29 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:29 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:30 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:30 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:30 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:30 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:31 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:31 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:31 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:31 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:31 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:32 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:32 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:32 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:32 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:33 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:33 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:33 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:33 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:34 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:34 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:34 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:35 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:35 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:35 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:36 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:36 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:36 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:36 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:37 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:37 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:38 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:38 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:38 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:38 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:39 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:39 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:12:40 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:13:23 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:13:25 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:14:18 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:15:27 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:19:24 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:21:12 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:23:21 UTC] PHP Notice:  Undefined variable: search in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 32
+[05-Apr-2019 12:23:21 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Eloquent\Collection.php on line 41
+[05-Apr-2019 12:25:07 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:25:50 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\Eloquent\Collection.php on line 41
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:26:43 UTC] PHP Notice:  Object of class Slim\Http\Request could not be converted to int in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\support\Collection.php on line 666
+[05-Apr-2019 12:32:48 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:34:57 UTC] PHP Recoverable fatal error:  Object of class Slim\Http\Request could not be converted to string in C:\Users\ADM\Desktop\Appli info RT\whs-orm\vendor\illuminate\database\MySqlConnection.php on line 80
+[05-Apr-2019 12:51:31 UTC] PHP Notice:  Undefined variable: request in C:\Users\ADM\Desktop\Appli info RT\whs-orm\src\routes.php on line 32
+[05-Apr-2019 13:47:11 UTC] PHP Notice:  Undefined variable: settings in C:\Users\ADM\whs-sep\client\src\routes.php on line 21
+[05-Apr-2019 13:50:06 UTC] PHP Notice:  Undefined variable: settings in C:\Users\ADM\whs-sep\client\src\routes.php on line 18
+[05-Apr-2019 13:50:06 UTC] PHP Notice:  Undefined variable: settings in C:\Users\ADM\whs-sep\client\src\routes.php on line 23

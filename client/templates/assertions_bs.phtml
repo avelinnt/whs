@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta  charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <title>WHS</title>
+</head>
+<body>
+  <div class="container">
+  <div class="jumbotron text-center">
+    <h1>When He Says...</h1>
+    <p>understand what he means!</p>
+  </div>
+
+    <form method="GET" action="http://localhost:8080/assertions">
+      <div class="form-group">
+        <input class="form-control" id="myInput" type="text" name="search" placeholder="Search...">
+      </div>
+    </form>
+
+    <?php if (isset($assertions)) : ?>
+      <?php if (count($assertions) > 0) : ?>
+        <div class="row">
+        <?php foreach ($assertions as $assertion): ?>
+            <div id="assertDiv" class="col-md-4">
+              <p class="text-justify">
+                <em class="font-italic">“<?php print($assertion->sentence); ?>”</em>
+                <br>
+                <span class="badge">
+                  <?php print($assertion->topic); ?>
+                </span>
+              </p>
+            </div>
+        <?php endforeach; ?>
+        </div>
+      <?php else: ?>
+        <div class="alert alert-warning">
+          <strong>Oups!</strong> No result..
+        </div>
+      <?php endif; ?>
+    <?php else: ?>
+      <div class="alert alert-danger">
+        <strong>Oups!</strong> No result..
+      </div>
+    <?php endif; ?>
+  </div>
+<!-- a voir plus tard (amélioration??)
+  <script>
+$(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#assertDiv *").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>-->
+</body>
+</html>
