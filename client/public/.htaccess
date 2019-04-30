@@ -19,4 +19,8 @@
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^ index.php [QSA,L]
   
+  <RequireAny>
+    Require method DELETE GET POST PUT PATCH OPTIONS
+</RequireAny>
+  
 </IfModule>
